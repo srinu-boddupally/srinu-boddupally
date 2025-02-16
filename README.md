@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srinu Boddupally</h1>
 <h3 align="center">Passionate About Building Scalable Web Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinu-boddupally&label=Profile%20views&color=0e75b6&style=flat" alt="srinu-boddupally" /> </p>
+- 🌍 I'm based **in India**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinu-boddupally" alt="srinu-boddupally" /></a> </p>
+- 🧠 I’m currently learning **Full Stack Web Development.**
 
-<p align="left"> <a href="https://twitter.com/boddupally46011" target="blank"><img src="https://img.shields.io/twitter/follow/boddupally46011?logo=twitter&style=for-the-badge" alt="boddupally46011" /></a> </p>
-
-- ● 🌍 I'm based **in India**
-
-- ● 🧠 I’m currently learning **Full Stack Web Development.**
-
-- ● 🤝 I'm open to collaborating **on Interesting projects.**
+- 🤝 I'm open to collaborating **on Interesting projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

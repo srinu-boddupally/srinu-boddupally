@@ -76,3 +76,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=srinu-boddupally&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=srinu-boddupally&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+

@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Srinu Boddupally</h1>
 <h3 align="center">Passionate About Building Scalable Web Applications</h3>
-<h1>About me</h1>
+
+---
+
+## About Me
 - 🌍 I'm based in **India**  
 - 🧠 I’m currently learning **Full Stack Web Development**  
 - 🤝 I'm open to collaborating **on interesting projects**  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/boddupally46011" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
@@ -22,7 +25,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -61,7 +64,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinu-boddupally&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
@@ -71,5 +74,5 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=srinu-boddupally&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=srinu-boddupally&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>

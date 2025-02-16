@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srinu Boddupally</h1>
 <h3 align="center">Passionate About Building Scalable Web Applications</h3>
-
+<h1>About me</h1>
 - 🌍 I'm based in **India**  
 - 🧠 I’m currently learning **Full Stack Web Development**  
 - 🤝 I'm open to collaborating **on interesting projects**  
@@ -71,5 +71,5 @@
 </p>
 
 <p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinu-boddupally&theme=dark&hide_border=false" alt="GitHub Streak"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=srinu-boddupally&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
